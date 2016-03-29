@@ -1,0 +1,5 @@
+cpu,Intel,2.23
+ram,A-DATA,256
+cpu,NVIDIA,1.20
+ram,Transcend,64
+ram,Kingston Technology Corp.,512

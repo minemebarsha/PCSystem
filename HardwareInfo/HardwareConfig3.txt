@@ -1,0 +1,2 @@
+cpu,NVIDIA,1.20
+ram,Transcend,64

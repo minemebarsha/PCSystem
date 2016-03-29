@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PCStore>
+  <PCSystem SystemId="1" Labeling="G50" Manufacturer="Lenovo">
+    <CPU SerialNo="1" Manufacturer="Intel" MHz="2.23" />
+    <CPU SerialNo="2" Manufacturer="NVIDIA" MHz="1.20" />
+    <RAM SerialNo="1" Manufacturer="A-DATA" MB="256" />
+    <RAM SerialNo="2" Manufacturer="Transcend" MB="64" />
+    <RAM SerialNo="3" Manufacturer="Kingston Technology Corp." MB="512" />
+  </PCSystem>
+  <PCSystem SystemId="2" Labeling="N100SP" Manufacturer="Samsung">
+    <CPU SerialNo="3" Manufacturer="IBM" MHz="3.35" />
+    <RAM SerialNo="4" Manufacturer="Kingston Technology Corp." MB="512" />
+    <RAM SerialNo="5" Manufacturer="GeIL" MB="1024" />
+  </PCSystem>
+  <PCSystem SystemId="3" Labeling="Air" Manufacturer="Macbook">
+    <CPU SerialNo="4" Manufacturer="NVIDIA" MHz="1.20" />
+    <RAM SerialNo="6" Manufacturer="Transcend" MB="64" />
+  </PCSystem>
+  <PCSystem SystemId="4" Labeling="D500" Manufacturer="Dell">
+    <CPU SerialNo="5" Manufacturer="Motorola" MHz="2.33" />
+    <CPU SerialNo="6" Manufacturer="NVIDIA" MHz="1.20" />
+    <CPU SerialNo="7" Manufacturer="NVIDIA" MHz="3.20" />
+    <RAM SerialNo="7" Manufacturer="GeIL" MB="1024" />
+  </PCSystem>
+</PCStore>

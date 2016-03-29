@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="de.rwth.i5.hiwi.model.PCSystem" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/model/PCSystem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="247" width="165" x="1059" y="522"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="de.rwth.i5.hiwi.model.IncludesCPU" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/model/IncludesCPU.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="424" y="661"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="de.rwth.i5.hiwi.model.CPU" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/model/CPU.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="928" y="655"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="de.rwth.i5.hiwi.model.IncludesRAM" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/model/IncludesRAM.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="155" y="661"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="de.rwth.i5.hiwi.model.RAM" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/model/RAM.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="698" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="de.rwth.i5.hiwi.manager.IncludesRAMManager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/manager/IncludesRAMManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="241" x="50" y="292"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="de.rwth.i5.hiwi.manager.IncludesCPUManager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/manager/IncludesCPUManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="194" width="170" x="345" y="333"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="de.rwth.i5.hiwi.manager.RAMManager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/manager/RAMManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="195" width="201" x="595" y="305"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="de.rwth.i5.hiwi.manager.CPUManager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/manager/CPUManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="924" y="387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="de.rwth.i5.hiwi.manager.PCSystemManager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/manager/PCSystemManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="182" x="1059" y="251"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="de.rwth.i5.hiwi.Controller.Controller" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/Controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="228" x="28" y="7"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="de.rwth.i5.hiwi.main.Main" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="449" y="74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="de.rwth.i5.hiwi.DBUtility.ConnectionManager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/DBUtility/ConnectionManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1001" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="de.rwth.i5.hiwi.manager.Manager" project="PCSystem" 
+    file="/PCSystem/src/de/rwth/i5/hiwi/manager/Manager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="620" y="156"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="15">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <realization id="21">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="22">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="23">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="24">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="26">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="27">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="29">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <realization id="30">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="31">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="36">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="37" name="instance"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="39">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

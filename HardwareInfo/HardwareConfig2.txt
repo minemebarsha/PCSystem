@@ -1,0 +1,3 @@
+cpu,IBM,3.35
+ram,Kingston Technology Corp.,512
+ram,GeIL,1024

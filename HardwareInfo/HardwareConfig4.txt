@@ -1,0 +1,4 @@
+cpu,Motorola,2.33
+ram,GeIL,1024
+cpu,NVIDIA,1.20
+cpu,NVIDIA,3.20
